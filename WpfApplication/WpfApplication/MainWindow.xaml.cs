@@ -22,6 +22,7 @@ namespace WpfApplication
         public MainWindow()
         {
             InitializeComponent();
+            string test = "test";
         }
     }
 }
