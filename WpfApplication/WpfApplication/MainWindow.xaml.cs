@@ -22,6 +22,8 @@ namespace WpfApplication
         public MainWindow()
         {
             InitializeComponent();
+
+            Console.WriteLine("Hello Wpf!");
         }
     }
 }
