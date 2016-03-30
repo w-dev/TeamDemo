@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <TextBlock Text="aa" />
+        <TextBlock Text="a2" />
+        <TextBlock Text="a3" />
     </Grid>
 </Window>
