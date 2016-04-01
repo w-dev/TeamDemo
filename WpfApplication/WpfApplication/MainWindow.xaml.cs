@@ -26,6 +26,13 @@ namespace WpfApplication
             Console.WriteLine("Hello Wpf!");
 
             int test = 0;
+            
+            Console.WriteLine("Hello Wpf!");
+
+            Console.WriteLine("Hello Wpf!");
+
+            Console.WriteLine("Hello Wpf!");
+
         }
     }
 }
