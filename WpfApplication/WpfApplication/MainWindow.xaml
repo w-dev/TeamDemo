@@ -10,5 +10,6 @@
         <TextBlock Text="aa" />
         <TextBlock Text="a2" />
         <TextBlock Text="a3" />
+        <TextBlock Text="a4" />
     </Grid>
 </Window>
