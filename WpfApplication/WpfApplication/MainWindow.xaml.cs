@@ -33,6 +33,7 @@ namespace WpfApplication
 
             Console.WriteLine("Hello Wpf!");
 
+            Console.WriteLine("Hello Wpf!dst");
 
 
             Console.WriteLine("Hello Wpf!");
