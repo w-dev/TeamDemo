@@ -22,7 +22,10 @@ namespace WpfApplication
         public MainWindow()
         {
             InitializeComponent();
-            string test = "test";
+
+            Console.WriteLine("Hello Wpf!");
+
+            int test = 0;
         }
     }
 }
